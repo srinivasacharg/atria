@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 name: achar
 baseurl: /atria/
 url: http://srinivasacharg.github.io
+future: true
