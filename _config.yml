@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #
 # This file contains configuration flags to customize your site
 #
@@ -84,3 +85,10 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+=======
+theme: jekyll-theme-cayman
+name: achar
+baseurl: /atria/
+url: http://srinivasacharg.github.io
+future: true
+>>>>>>> 15c2b261ba23b94408b93f13078a146cc0d16fea
